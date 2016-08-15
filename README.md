@@ -1,7 +1,7 @@
 #e-mds.com
 
 ###Production site [here](http://e-mds.com/)
-###My rendered contribution [here](https://github.com/markedwardnewman/e-mds.com)
+###My rendered contribution [here](http://markedwardnewman.com/e-mds.com/)
 
 ##Project Scope - mid 2015
 
