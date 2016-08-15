@@ -1,4 +1,7 @@
-#*[e-mds.com](http://markedwardnewman.com/assets/other/projects/sites/e-mds.com/public/index.php)*
+#e-mds.com
+
+###Production site [here](http://e-mds.com/)
+###My rendered contribution [here](https://github.com/markedwardnewman/e-mds.com)
 
 ##Project Scope - mid 2015
 
