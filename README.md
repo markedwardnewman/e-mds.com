@@ -1,12 +1,13 @@
 # e-mds.com
 
-### Production site [here](http://e-mds.com/)
 ### My rendered (and publically accessible) contribution [here](http://marknewman.me/e-mds.com/)
 
-## Project Scope - mid 2015
-
-- Create a Bootstrap responsive site using .PSD wireframe prototypes
-- Set-up and then integrate the HTML, CSS, and javascript into the Drupal CMS.
+## Project Info
+Hired by Space Chimp Media in January, 2015 to
+- develop from scratch a responsive UX prototype using HTML, customized CSS / Bootstrap 3, and javascript based off Photoshop wireframes provided by e-MDS 
+- configure a WAMP environment for local development
+- install, configure, and modularize as needed the Drupal CMS used for production
+- integrate the UX prototype into the Drupal system
 
 ## Project Notes
 
