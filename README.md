@@ -1,14 +1,14 @@
-#e-mds.com
+# e-mds.com
 
-###Production site [here](http://e-mds.com/)
-###My rendered contribution [here](http://markedwardnewman.com/e-mds.com/)
+### Production site [here](http://e-mds.com/)
+### My rendered contribution [here](http://markedwardnewman.com/e-mds.com/)
 
-##Project Scope - mid 2015
+## Project Scope - mid 2015
 
 - Create a Bootstrap responsive site using .PSD wireframe prototypes
 - Set-up and then integrate the HTML, CSS, and javascript into the Drupal CMS.
 
-##Project Notes
+## Project Notes
 
 **Development Notes:**
 
